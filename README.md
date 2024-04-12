@@ -10,3 +10,4 @@ Its a webpage that solves solutions
 ## Technologies used
 Javascript
 
+[license](license.txt)
